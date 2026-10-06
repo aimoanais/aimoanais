@@ -107,7 +107,7 @@ const ahora = {
 <div align="center">
 
 <sub>
-✦ full stack developer &nbsp;·&nbsp; catamarca, argentina &nbsp;·&nbsp; lana del rey lover &nbsp;·&nbsp; arctic monkeys devotee &nbsp;·&nbsp; cinefila en construcción &nbsp;·&nbsp; junji ito fan &nbsp;✦
+✦ full stack developer &nbsp;·&nbsp; catamarca, argentina &nbsp;·&nbsp;✦
 </sub>
 
 </div>
